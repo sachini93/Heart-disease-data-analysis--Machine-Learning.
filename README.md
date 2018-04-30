@@ -1,0 +1,2 @@
+# Heart-disease-data-analysis--Machine-Learning.
+This repository contains a study based on popular Cleveland data set, available on UCI data repository ,based on clinical data gathered from a number of heart patients. The different attributes of the data set have coincided along with probability of a heart disease. Then using logistic regression approach: the behavior of the attributes have analyzed.
